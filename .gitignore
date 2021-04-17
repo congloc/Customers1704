@@ -21,3 +21,9 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# draft
+src\demo.vue
+src\demo09.vue
+src\demo10.vue
+src\demo13.vue
